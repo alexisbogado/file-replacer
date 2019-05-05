@@ -1,0 +1,9 @@
+D:\Projects\Replacer\Replacer\Replacer\bin\Debug\Replacer.exe.config
+D:\Projects\Replacer\Replacer\Replacer\bin\Debug\Replacer.exe
+D:\Projects\Replacer\Replacer\Replacer\bin\Debug\Replacer.pdb
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.csprojResolveAssemblyReference.cache
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.Form1.resources
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.Properties.Resources.resources
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.Cache
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.exe
+D:\Projects\Replacer\Replacer\Replacer\obj\Debug\Replacer.pdb
